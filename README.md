@@ -1,7 +1,7 @@
 Data-Version-Control
 ==============================
 
-This is a test to understand the working of Data Version Control
+This is a test to understand the working of Data Version Control.
 
 Project Organization
 ------------
